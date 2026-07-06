@@ -1,10 +1,10 @@
-# Email Intelligence System
+# Email Analyzer System
 
 # Take email from user to analyze
 email = input("Please enter your email : ")
 
 print("="*60)
-print("                  EMAIL INTELLIGENCE REPORT")
+print("               EMAIL ANALYZER REPORT")
 print("="*60)
 
 # Now we will analysis on the user_email
